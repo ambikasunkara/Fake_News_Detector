@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+requests
+beautifulsoup4
+plotly
+matplotlib
+nltk
+spacy<3.5
+fuzzywuzzy
+python-Levenshtein
